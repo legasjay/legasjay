@@ -11,7 +11,7 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: scroll; gap: 20px; padding: 10px;">
     <div style="background-color: #A4C639; padding: 10px; border-radius: 10px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
         <br/>
