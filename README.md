@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh5YnJoejA0eWI2aDlqMGI5ZnN6OHQ4cmpoc3l1a2R1ZWk3ZGJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" style="width: 100%;"> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh5YnJoejA0eWI2aDlqMGI5ZnN6OHQ4cmpoc3l1a2R1ZWk3ZGJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%">
 - "А ты в этом деле подсекаешь?" 
 - "Конечно" 
 - "Ну и, объясни" 
